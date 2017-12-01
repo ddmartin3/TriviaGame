@@ -1,0 +1,38 @@
+body{
+	text-align: center;
+	background-image: url("../images/background3.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	align-content: center;
+}
+
+h1{
+	padding: 20px;
+	font-size: 3em;
+	background-image: url("../images/background2.jpg");
+	color: yellow;
+	border-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: grey;
+}
+
+.content{
+	border-color: #dddddd;
+	border-style: solid;
+	border-width: 1px;
+	background: #ffffff;
+	width: 70%;
+	align-content: center;
+	margin-left: 15%;
+	opacity: 0.75;
+	height: 370px;
+}
+
+#time{
+	font-size: 2em;
+	color: red;
+}
+
+div{
+	margin-top: 30px;
+}
